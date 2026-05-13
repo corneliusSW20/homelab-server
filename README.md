@@ -1,6 +1,6 @@
 # Ubuntu + CasaOS Homelab Server
 
-A self-hosted homelab server built using an old laptop running Ubuntu Server and CasaOS.
+A self-hosted homelab server built using an old laptop running Ubuntu Server + CasaOS.
 
 ## Goals
 - Learn Linux administration
